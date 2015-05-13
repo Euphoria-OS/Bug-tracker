@@ -13,7 +13,7 @@ If the FAQ didn't help, check the tracker if your issue has been reported alread
 ######Step-2
 ------------
 
-In the left part of this page, select Issues -> New issue.
+In the right part of this page, select Issues -> New issue.
 
 ######Step-3
 ------------
